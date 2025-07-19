@@ -2,9 +2,11 @@
 
 <!-- badges: start -->
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
-[![License for code](https://img.shields.io/badge/license (for code)-GPL3.0-blue.svg)](https://opensource.org/licenses/gpl-3.0.html)
-[![License for text](https://img.shields.io/badge/license (for writing)-CC_BY_4.0-blue)](https://creativecommons.org/licenses/by/4.0/)
+[![License for code](https://img.shields.io/badge/license_for_code-GPL3.0-blue)](https://opensource.org/licenses/gpl-3.0.html)
+[![License for text](https://img.shields.io/badge/license_for_writing-CC_BY_4.0-blue)](https://creativecommons.org/licenses/by/4.0/)
 [![License for data](https://img.shields.io/badge/license (for data)-CC0-blue)](https://creativecommons.org/public-domain/cc0/)
+[![test book render](https://github.com/OxfordIHTM/seystats-handbook/actions/workflows/test-render.yml/badge.svg)](https://github.com/OxfordIHTM/seystats-handbook/actions/workflows/test-render.yml)
+[![Quarto Publish](https://github.com/OxfordIHTM/seystats-handbook/actions/workflows/publish.yml/badge.svg)](https://github.com/OxfordIHTM/seystats-handbook/actions/workflows/publish.yml)
 [![DOI](https://zenodo.org/badge/1022447355.svg)](https://zenodo.org/badge/latestdoi/1022447355)
 <!-- badges: end -->
 
