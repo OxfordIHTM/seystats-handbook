@@ -1,9 +1,12 @@
 # seystats: Curating Seychelles data and statistics from publicly-available sources - Technical Handbook <img src="handbook/images/seystats.jpeg" width="300" align="right" />
 
+<!-- badges: start -->
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 [![License for code](https://img.shields.io/badge/license (for code)-GPL3.0-blue.svg)](https://opensource.org/licenses/gpl-3.0.html)
 [![License for text](https://img.shields.io/badge/license (for writing)-CC_BY_4.0-blue)](https://creativecommons.org/licenses/by/4.0/)
 [![License for data](https://img.shields.io/badge/license (for data)-CC0-blue)](https://creativecommons.org/public-domain/cc0/)
+[![DOI](https://zenodo.org/badge/1022447355.svg)](https://zenodo.org/badge/latestdoi/1022447355)
+<!-- badges: end -->
 
 This repository contains code for building the technical handbook for the `seystats` project on curating Seychelles data and statistics from publicly-available sources. The repository for the `seystats` package can be found [here](https://github.com/OxfordIHTM/seystats).
 
