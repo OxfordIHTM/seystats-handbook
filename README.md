@@ -1,4 +1,4 @@
-# seystats: Curating Seychelles data and statistics from publicly-available sources - Technical Handbook <img src="handbook/images/seystats.jpeg" width="300" align="right" />
+# seystats: Curating Seychelles data and statistics from publicly-available sources - Technical Handbook <img src="images/seystats.jpeg" width="300" align="right" />
 
 <!-- badges: start -->
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
