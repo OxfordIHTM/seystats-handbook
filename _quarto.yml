@@ -94,7 +94,7 @@ format:
       text: |
         \printindex
   epub:
-    cover-image: images/coat_of_arms_of_seychelles.png
+    cover-image: images/seystats.jpeg
     toc: true
     toc-depth: 3
     highlight-style: breeze
